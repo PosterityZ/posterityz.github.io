@@ -26,7 +26,5 @@
     "url": "https://github.com/PosterityZ/posterityz/issues"
   },
   "homepage": "https://github.com/PosterityZ/posterityz#readme",
-  "dependencies": {
-    "http-server": "^0.12.3"
-  }
+  "dependencies": {}
 }
