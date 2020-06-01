@@ -1,0 +1,29 @@
+{
+  "name": "posterityz",
+  "version": "1.0.0",
+  "description": "Posterity Zambia International Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PosterityZ/posterityz.git"
+  },
+  "keywords": [
+    "Posterity",
+    "Zambia",
+    "NGO",
+    "Social",
+    "Benefit",
+    "Zambia",
+    "Youth",
+    "Organization"
+  ],
+  "author": "Damiano Chintala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PosterityZ/posterityz/issues"
+  },
+  "homepage": "https://github.com/PosterityZ/posterityz#readme"
+}
