@@ -1,0 +1,2 @@
+# posterityz
+Posterity Zambia is a Social Benefit Enterprise specialised in facilitating access to Education for the vulnerable and poor demographic in Zambia. We provide Enterprise support to the vulnerable poor and struggling women in the informal sector as well as engaged in Street Children reintegration through skills development and Education . These objectives fuel the solid aim of dismantling poverty in Zambia.
